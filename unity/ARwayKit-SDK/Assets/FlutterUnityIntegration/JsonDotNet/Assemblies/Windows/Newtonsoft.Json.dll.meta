@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 17aef65a15b471f468b5fbeb4ff0c6a1
-timeCreated: 1466788349
+guid: 1b361f800a19d48c2a0c1ec3118083ee
+timeCreated: 1466788355
 licenseType: Store
 PluginImporter:
   serializedVersion: 1
@@ -16,33 +16,25 @@ PluginImporter:
       enabled: 0
       settings: {}
     Editor:
-      enabled: 1
+      enabled: 0
       settings:
         CPU: AnyCPU
         DefaultValueInitialized: true
         OS: AnyOS
     Linux:
-      enabled: 1
+      enabled: 0
       settings:
         CPU: x86
     Linux64:
-      enabled: 1
+      enabled: 0
       settings:
         CPU: x86_64
-    LinuxUniversal:
-      enabled: 1
-      settings:
-        CPU: AnyCPU
     OSXIntel:
-      enabled: 1
+      enabled: 0
       settings:
         CPU: AnyCPU
     OSXIntel64:
-      enabled: 1
-      settings:
-        CPU: AnyCPU
-    OSXUniversal:
-      enabled: 1
+      enabled: 0
       settings:
         CPU: AnyCPU
     SamsungTV:
@@ -50,21 +42,21 @@ PluginImporter:
       settings:
         STV_MODEL: STANDARD_13
     Win:
-      enabled: 1
-      settings:
-        CPU: AnyCPU
-    Win64:
-      enabled: 1
-      settings:
-        CPU: AnyCPU
-    WindowsStoreApps:
       enabled: 0
       settings:
         CPU: AnyCPU
+    Win64:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+    WindowsStoreApps:
+      enabled: 1
+      settings:
+        CPU: AnyCPU
         DontProcess: False
-        PlaceholderPath: 
+        PlaceholderPath: Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll
         SDK: AnySDK
-        ScriptingBackend: Il2Cpp
+        ScriptingBackend: DotNet
     iOS:
       enabled: 0
       settings:
