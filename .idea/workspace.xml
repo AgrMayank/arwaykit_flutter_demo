@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="007279da-fc34-49b3-8633-4319d928f306" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/arwaysdk_unity_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/menu_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/3f5b5dff67a942289a9defa416b206f3" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/3f5b5dff67a942289a9defa416b206f3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/42df1c7856584b6b8db9a509b6b10074" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/42df1c7856584b6b8db9a509b6b10074" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/68e6db2ebdc24f95958faec2be5558d6" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/68e6db2ebdc24f95958faec2be5558d6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/749b9069dc4742c5bfa5c74644049926" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/749b9069dc4742c5bfa5c74644049926" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/79459efec17a4d00a321bdcc27bbc385" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/79459efec17a4d00a321bdcc27bbc385" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/8a89fa14b10d46a99122fd4f73fca9a2" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/8a89fa14b10d46a99122fd4f73fca9a2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/8b29aaa3eec7468097ff07adfcf29ac9" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/8b29aaa3eec7468097ff07adfcf29ac9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/9ad269c99dcf42b7aedefd83dd5a7b9d" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/9ad269c99dcf42b7aedefd83dd5a7b9d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/Managed/Metadata/global-metadata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/Managed/Metadata/global-metadata.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/a00013af81304728b2be1f4309ee2433" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/a00013af81304728b2be1f4309ee2433" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/a1e97a4c391474083ad89b7192b66d45" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/a1e97a4c391474083ad89b7192b66d45" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/boot.config" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/boot.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/dc36b3fdc14f47ebb36fd484a67e268a" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/dc36b3fdc14f47ebb36fd484a67e268a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/dd89cf5b9246416f84610a006f916af7" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/dd89cf5b9246416f84610a006f916af7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/e6b276ec991f467aa14ef1f3cc665993" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/e6b276ec991f467aa14ef1f3cc665993" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/e73a58f6e2794ae7b1b7e50b7fb811b0" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/e73a58f6e2794ae7b1b7e50b7fb811b0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/f2dcf029949142e28b974630369c8b4e" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/f2dcf029949142e28b974630369c8b4e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/f629c6e43dba4bf38cb74d8860150664" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/f629c6e43dba4bf38cb74d8860150664" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/globalgamemanagers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/level0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split0" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split1" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split15" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split16" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split18" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split19" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split2" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split3" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split4" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split5" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split6" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split7" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split8" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/assets/bin/Data/sharedassets0.assets.split9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/jniLibs/arm64-v8a/libil2cpp.so" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/jniLibs/arm64-v8a/libil2cpp.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/jniLibs/armeabi-v7a/libil2cpp.so" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/jniLibs/armeabi-v7a/libil2cpp.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so" beforeDir="false" afterPath="$PROJECT_DIR$/android/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unity/ARwayKit-SDK/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/unity/ARwayKit-SDK/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unity/ARwayKit-SDK/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/unity/ARwayKit-SDK/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="007279da-fc34-49b3-8633-4319d928f306" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
