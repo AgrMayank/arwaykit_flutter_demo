@@ -13,7 +13,6 @@ class _ARwayKitUnityScreenState extends State<ARwayKitUnityScreen> {
       GlobalKey<ScaffoldState>();
 
   UnityWidgetController _unityWidgetController;
-  double _sliderValue = 0.0;
 
   @override
   void initState() {
